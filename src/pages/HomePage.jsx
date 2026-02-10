@@ -52,7 +52,7 @@ export default function HomePage() {
             <input
               type="text"
               className="name-input"
-              placeholder="Ex: Naelle Divine"
+              placeholder="Ex: Grâce cynthia"
               value={name}
               onChange={(e) => {
                 setName(e.target.value)
